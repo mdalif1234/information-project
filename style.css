@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#F8F8FF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    max-width:800px;
+    background-color:#f6fdf8;
+    margin:0px auto;
+	padding:20px;
+}
+header{
+	
+}
+.profile-image{
+	width:90px;
+	height:90px;
+	border:3px solid white;
+	border-radius:50%;
+	float:left;
+}
+.header-bio{
+	float:left;
+	padding:20px;
+}
+h1,h2,h3,h4,h5,h6{
+	color:#28a32e;
+}
+.contact{
+	width:320px;
+	height:60px;
+	background:#48d171;
+	float:right;
+	border-radius:5px;
+	margin-top:20px;
+}
+.contact ul{
+  	  padding:0px auto;
+	  text-align:center;
+}
+.contact ul li{
+  list-style-type:none;
+  margin:20px;
+  float:right;
+  font-weight:bold;
+
+}
+.contact ul li a{
+	text-decoration:none;
+	font-size:20px;
+	color:white;
+	
+}
+.contact ul li a:hover{
+	color:rgb(255, 38, 0);
+}
+.div-clear{
+	clear:both;
+}
+hr{
+	border:2px solid black;
+	width:100%;
+	border-bottom:none;
+	margin-top:20px;
+}
+/*------------
+Personal section start
+------------*/
+.Personal-Section{
+	
+}
+.content{
+	
+}
+.left-div{
+	width:30%;
+	float:left;
+	padding-top:50px;
+}
+.right-div{
+	width:60%;
+	float:right;
+	padding-top:30px;
+	text-align:justify;
+}
+.hr{
+	border:1px solid black;
+	width:100%;
+	border-bottom:none;
+	margin:20px auto;
+}
+
+/*------------
+Education section start
+------------*/
+.edu-left{
+	float:left;
+	width:30%;
+	text-align:justify;
+}
+.edu-right{
+	float:right;
+	width:30%;
+    text-align:justify;
+	margin-right:90px;
+}
+/*------------
+Footer section start
+------------*/
+.footer{
+	background-color:#778899;
+	color:white;
+	width:800px;
+	height:70px;
+	margin-top:10px;
+	text-align:center;
+
+	
+}
+.br{
+	width:200px;
+	margin:0px auto;
+	border:1px solid white;
+	border-bottom:none;
+}
+.footer{
+	padding:10px;
+	Border-radius:5px;
+}
+.copy{
+	font-family: 'Roboto', sans-serif;
+}
+.aa{
+	font-family: 'Secular One', sans-serif;
+	padding-top:5px;	
+}
+.developer{
+		font-family: 'Roboto', sans-serif;
+		padding-top:50px;
+       display:inline;
+		
+}
+.developer p{
+	color:pink;
+	 display:inline;
+	 font-size: 20px;
